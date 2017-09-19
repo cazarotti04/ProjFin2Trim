@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelagem.Plugins", "Modelagem.Plugins.csproj", "{81F4A240-2D95-1D93-C1E4-866EE11948FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelagem", "Modelagem.csproj", "{EDC69EDA-F37B-4070-07EB-E70B5CD46754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F4A240-2D95-1D93-C1E4-866EE11948FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F4A240-2D95-1D93-C1E4-866EE11948FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F4A240-2D95-1D93-C1E4-866EE11948FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F4A240-2D95-1D93-C1E4-866EE11948FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC69EDA-F37B-4070-07EB-E70B5CD46754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC69EDA-F37B-4070-07EB-E70B5CD46754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC69EDA-F37B-4070-07EB-E70B5CD46754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC69EDA-F37B-4070-07EB-E70B5CD46754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
